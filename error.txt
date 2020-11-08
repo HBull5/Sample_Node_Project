@@ -1,0 +1,1 @@
+Date: 1604867257278 Error: ENOENT: no such file or directory, open '/Users/harcourtbull/Desktop/basic_webserver/index.html'
